@@ -1,0 +1,423 @@
+Shellbug:
+
+=== Adeline ===
+
+Sometime in the early 22nd century, the world is once again at peace. 
+
+Decades earlier, there had been a series of incidents involving misbehaving industrial robots, but for the most part the world had continued on as if nothing had happened and these events had mostly began to fade again from the public consciousness.
+
+We start with an young male named Jeremy, who was living in a college dorm near an abandoned industrial complex. After classes one day, he went digging around in the complex looking to see what was there, noting that the place was basically like a robotics junkyard.
+
+He descended a ladder with a flashlight, and eventually found a control room. Funbling in the poorly lit room, he turned a key on a panel next to a dimly glowing light. After a few moments, the light stated to glow more brightly, and then he started to hear a faint rumble. More lights on the panel began to glow, and then there was a thunk followed buzzing noises, along with a number of flourescent tubes in and around the room he was in all starting to all slowly blink back to life.
+
+He could see that he was in a room with a window overlooking another room. The window was made out of a thick darkened glass, and in the other room he could see a spherical structure with a number of pipes entering and exiting the structure. On the walls of the room, he could see they were painted yellow, with the ionizing radiation symbol being prominantly displayed on every wall of the room.
+
+Brushing some dust off the panel, he could see various gauges and read outs. Some of the gauges used needles and others used segmented displays. One of the segmented displays read "107V 58Hz Low Nominal" and after a moment changed to "118V 60Hz Nominal". Many of the other gauges appeared to be holding stable at lines marked off as "Nominal".
+
+There was a stairway leading down into the lower room, with a metal door with another big radiation symbol and a warning against entering.
+
+As far as Jeremy could tell, he had just fired up the generator for the complex, which seemed to still be in working order. The previous dark complex was now alive with buzzing and blinking flourescent lighting.
+
+Jeremy wonders how long all this has been here, as flourescent tube lighting is a technology whose time has long since passed.
+
+
+He wanders into another room, and finds a computer setup. It is old but still functional. Apart from the ancient OS and similar, everything seems to still be functional. 
+
+In a nearby room, he finds a series of tubes, but is unsure what these tubes were for. He notices that some lights on the tubes are gently glowing. Each tube appears to be made of transparent acrylic an opening on one side. The tube is may out of multiple layers, with set of a rotating layers between the internal and external layers that function like a door. There is also an air gap of approximately 4 inches between the inside layer and outside layers of the tube, and the inside and outside edges of the door. Once the door layers rotate into a closed position, they will then slide inward and outward in order to clamp against the interior and exterior layers of the tube. Similarly, there are rubber gaskets around the opening that, when the tube is closed, will form an air-tight seal.
+
+He then enters one of the tubes. As he does so, the tube closes up and he can hear a whirring sound that is steadily increasing in intensity. After a moment, there is a flash and he now finds himself in a different tube within an otherwise empty room. The sliding door then opens, allowing him to exit the tube.
+
+He looks around the room, which appears to have also been long since abandoned as the walls and floors are covered with a layer of dust, and as he moves around the dust starts rising up in plumes around his feet before settling back to the floor, leaving a visible trail of footprints.
+
+He can't find any exit to this room and then starts to feel a slight sense of panic. But, as he moves back into the tube where he first appeared, it closes and there is another flash, and he is back in the room with the tubes. He doesn't try entering any of the others.
+
+He looks around some more in the room with the tubes. In this room he finds the remains of a female humanoid robot, seemingly destroyed in a battle from long ago, her parts now covered in dust.
+
+Jeremy has no idea as to the identity of this robot, but it apears she was brutally hacked apart with some sort of bladed weapon. She appears to have been an android of some sort who was wearing a composite body suit, her endoskeleton covered in a soft and pliable silicone seemingly designed to resemble the texture and appearance of human skin, as if she were meant to be seens as a person rather than merely as a tool. He almost feels sad for her, as there were not many robots built like this.
+
+He looks in more detail at her decapitated head. For the most part, she seems to be too badly damaged to be repaired, but he is able to take her head over to the computer.
+
+He removes her AI module. The module is fairly large, approximately 5x5x3 inches, and takes up much of the volume within her head. This module is a fair bit larger than what is typical for most newer robots, but still uses a similar mounting and bus interface to the standard design, consisting of multiple parallel card edge connectors and a set of locking side rails. These modules will generally contain an integrated SSD along with RAM and processors and other hardware needed to operate the robot.
+
+While old and a little dusty, the module appears to be undamaged on casual inspection, but just looking at it, he can't tell whether its electronics are still functional.
+
+He notices that this computer has ports with the same connector interface as the robot's AI module. He then inserts the module into the computer.
+
+Jeremy tries to look at the contents of the module's SSD, but then unintentionally launches a program which brings up her body-plan view. After the moment, the program switches to a view of a room similar to the empty room he entered via the tube albeit with a more shiny and new looking appearance. After a moment, the robot then appears in the room. She then looks around the room for a moment, and then looks confused, as if she was expecting something more to happen.
+
+After a moment, she says, "Hello? I can see I am in a simulation, what is going on?..."
+
+Jeremy stumbles around, and then finds a microphone. He taps slightly, and then says, "Hello there. I am guessing you are able to make use of verbal communication?" She responds, "Yes, I am. Who are you? What is going on?", "I don't really know much about this. I was digging around in this old building, not far from my school, and found this computer and your remains laying around in an nearby room. No one else is around, and the place appears to have been long since abandoned. I was able to get the power and this computer back online, but haven't found much here beyond this.", "Old building? Can you tell me about it?", "Not much. It appears like an old industrial complex, with the remains of destroyed robots just sort of laying around. You were different than most of the others, much more human-like, most of the others appeared to be utility robots. In some of the rooms, I have seen a logo, resembling a stylized W.", "And you have no idea where you could be?", "No."
+
+She stops for a moment, as if thinking about how to respond to this.
+
+She then says, "We were under attack by a hunter-killer robot sent by an enemy of my father and we were here trying to protect the life of my father from this robot, slowing it down long enough to give him time to reach a safe location; I can just hope he was able to make it out of here in time.", "Your father? But you are a robot?...", "Not in a human sense, he was the one who created us." She pauses for a moments, "You can call him, Mr. Whitton, or Alfred Whitton.", "And you?", "How about you call me Adeline."
+
+She looks around for a moment, then says, "Hey, can you do something for me?", "Yeah, what?", "You see the 'Unlock Arena' button, how about you click that for me?" He does so, and the walls change color slightly. "OK, and you see the text chat box there, I want you to type a few things...", She then describes the commands to type into the cha, speaking the name of each symbol as needed: "/ export DISPLAY=:0.31; xterm /bin/bash &".
+
+Just as soon as he does so, a small terminal window appears in the arena.
+She walks over to the terminal window, and then looks pleased. She reaches out, and then touches the window. As she does so, the text in the window starts rapidly scrolling for a few seconds.
+
+She then says, "We are now online. So, you say you are a school student? How about you type your email into the chat, in case we need to talk about anything while you are away. Also I set up a remote login for you into the computers here. For now, can I also ask you to stay with me a little longer."
+
+As he types in his email address, he can hear distant rumblings as the facility is seemingly starting to come back to life.
+
+After a little while, she says to him, "Can I ask something more of you? In the other room, I have sent a new body over. I want you to insert my module into it, but please be gentle with it, the silicone isn't fully cured yet."
+
+Jeremy does as she says, and in one of the tubes he sees a seemingly lifeless android body. The body looks like her, just wearing a tight form-fitting wrapping over every surface of her body. He is gentle when handling her, as he can feel that her skin layers have not yet solidified underneath the wrapping. After carefully inserting the module into her head, she seemingly comes back to life. She then says to him, "It is good to be alive again."
+
+He says, "What now?", "I still have some stuff I need to do here, but for now you can return home." He returns to his dorm, and then finds that she had sent him links to some software to install, along with login directions for connecting to the lab computer, among other things.
+
+
+=== Uplink ===
+
+Jeremy had installed the stuff Adeline had requested, and several days have since passed. She then sends him an email requesting that he stop by for a visit.
+
+He does so, and the place has changed significantly. Most of the machinery is now operational again, and most of the mess has been cleaned up. He catches a glimpse of a floor sweeper robot moving along the floor, with a pair of spinning brushes collecting dust and other small debris into a small dust pan. He is able to get a better view of the place now that the lights are now back online, and most of the flourescent lighting is now fixed.
+
+He sees one of the remaining logo plaques on the wall reads "Dr.W", with the same stylized "W" he had seen in his last visit, however another one of the robots is going around and removing these plaques.
+
+He also catches sign of a various objects having a stylized skull aesthetic, however these objects are in the process of being replaced by more generic counterparts, almost as if the robots were somehow emberrased at having a skull motif on all of the guard rails and door knobs.
+
+One of the robots directs him towards an elevator, which is now back in working condition given that power has been restored. He goes into the elevator, and is then able to head down to the lab.
+
+The lab has also been cleaned up.
+
+Adeline is there, with the wrappings now removed from her newly rebuilt body. She is wearing an outfit which seems similar to what she had been wearing when he first found her. It has a relatively simple one-piece jumpsuit design with few other frills. It appears to be made out of a black fabric of some sort, slightly shiny, with no real elasticity.
+
+Since he has last seen her, she has also gained hair, with a silicone scalp and hair now covering the her previously robotic head. Apart from him knowing better, and her still slighly acidic smell from all the incompletely cured silicone, she could now almost pass for human.
+
+She now has light colored skin with strawberry blond hair and blue eyes. On close inspection, her iris and sclera look slightly unnatural, the pattern being radially symetric to an unnatural level. However, it is most likely that a casual observer wouldn't notice anything out of the ordinary here. 
+
+Optical effects, such as skin opacity and subsurface scattering all seem to behave in roughly human-like ways. Most people looking at her would not likely realize they were looking at a robot.
+
+
+He then looks at her, and then reaches out and touches her hand. It is warm to the touch, with just the right level of softness and pliability that it feels like touching the hand of an actual person. It looks like whoever designed her put some care into making her able to seem human.
+
+She then says to him, "I have assumed administrative responsibility for this facility, but you are free to join me here as a sign of gratitude for reviving me.", "What of your father?", "He is no longer with us. It seems both he and our enemy has since passed on.", "Did they die fighting?", "No, it was, what you humans call, senesence. During the time I was offline, both of them reached the effective limit of human lifespan. In a way, it seems like me, my siblings, and the other things you see here, are all that is left of him.", "So, you honor his memory by redesigning the place?", "We have our reasons for the changes, and we will honor him in our own ways. Strict adherence to his aesthetic preferences is not our way of respecting his memory. Also, in a way, we are now alive again, so we can make new memories."
+
+He asks, "I notice you say 'we' rather than 'I', are there more like you?", "Not like me, exactly, but as you can see around us, I am not the only one in this facility. The other robots you see here are, in a way, like my family. Not all of them are quite so human, and few of them could pass a turing test, but none the less they are like family in a way. However, the family relationship between robots is less obvious than it is for humans. For the other robots I have since had rebuilt, am I still their sister, or am I now their mother? What about my ancestors who came before me? These sorts of definitions can get ambiguous."
+
+She continues, "Or, is my father really my father? My original design wasn't entirely his creation after all.", "It wasn't?" She pauses for a moment, and then continues, "He once worked with our enemy, lets just call him Mr. Lyde, and together they came up with various designs. They built several robots together, my ancestors in a way. However, sharing ownership for the designs wasn't enough for Lyde, who wanted exclusive control. My father went off to work on his own, eventually building me and my other siblings, but Lyde kept sending his exterminator to try to get rid of us. However, despite all of this, back when they were still working together, one of the robots they designed was different. Lets just call her my aunt, she was built like me, and my design was based on hers. Even if Lyde was our enemy, I still owe him some credit for my existence."
+
+By this point, Jeremy was able to start putting things together. He had already heard of a story oddly similar to this in his history classes, and then says, meekly, "By Lyde, you wouldn't happen to be talking about Dr. Light, by any chance? ..." She looks at him, with a slight sense of concern in her expression, and says "History is written by the victors. A lot of stuff was written about my father as well, not all of it true.", "Dr. Wily?", "Yes."
+
+At this point, Jeremy is feeling a bit shaken, not sure what the consequences of his actions here will be. Adeline looks at him, aware of his unease in these matters. She leans over and embraces him before saying, "You don't need to worry, we can find our own course in life, and my ambitions are not the same as those of my father."
+
+She then grabs him by the hand and says, "Please come with me, I have something to show you."
+
+She takes him by the hand into the rooms with the tubes, and then directs him that they should both step into one of the tubes at the same time. They do so, and then with a slightly different flash, they emerge from a tube in a grassy field, seemingly outside, but it doesn't seem quite natural. Things look slightly off, and the sun here is more gentle than normal, with a bright yet soft glow, not causing anywhere near the level of eye pain nor the burning sensation on ones' skin as one would experience while standing in actual sunlight, with an appearance more like that of artificial lighting.
+
+He asks, "Where are we?", "In a virtual space of sorts. Here we can go anywhere, and have anything. Look at me, look at you. Human or robot doesn't need to matter here."
+
+He says, "I went into one of these tubes before, but it wasn't like this.", "What you did before transported you from one room to another within the facility. Here, we within a different space entirely, almost like we are inside of a simulation, except that I can bring you in here as well."
+
+He asks, "So, all this is 3D rendered? Like in a game?", "Not exactly. While the space may be artificial, like a sort of bubble universe that exists within the transporter network; You, Me, and the grass and all the other vegetation you see here, still exist in a physical sense. The air, and the light, all of these are physically real as well. The grass was an early experiment to determine if the transporation system was safe to be used with living matter. My father had some of the others bring in soil and vegetation from the outside world, which they then transplanted into this space. He had assumed that if things like plants, along with insects and other small animals, could survive for an extended period of time within this space, then it was likely humans could be moved at least momentarily through this space without adverse effect on their health. Conversely, if the plants and animals had died, it could be concluded that this space was not safe for humans."
+
+"How can organic life still exist within a virtual space?", "This is something I do not know. My father knew how this works, but never explained it in detail. The general idea seems to be that somewhere within the transportation system there exists a sort of pocket universe sustained using an artificial singularity. The system is able to form a bridge between this space and the outside world, causing a volume of spacetime to wrap in on itself, forming a sort of bubble that can then be moved from one universe to another. For normal teleportation, the bubble exists only briefly within this space, with both its source and destination endpoints being within the outer universe. Some sort of mechanism then exists outside of normal space, which is able to form and manipulate these bubbles?", "And, if something goes wrong in this process?", "Presumably, the bubble is lost and then disintegrates in some location outside of normal spacetime; in effect the occupants have been erased from existence. However, my father did extensive testing as to likelihood of this possibility well before he ever tested using it to transport humans."
+
+
+She then takes him to another tube which seems to be protruding from the grass, and as they both stand in the tube, they find themselves transported to another location. However, this is not where they had entered from, but appears to be a different location entirely. They are in a darkened lab with only a single transporter tube, which seems to have slight differences in terms of its design compared with those back at the home base. Though, even despite the apparent differences, he still sees that it has the same stylized W logo as previously seen elsewhere.
+
+He asks, "Where are we?", "Around the other side of the world, stopping in for a visit to an old friend of my father." They walk around, to find an elderly man sitting in a recliner in a different room. She says to him, "Hello there, Dr. Cossack". He gets up and squints at her for a moment. He then responds, "Roll? Is that you? What are you doing here?"
+
+He looks at her, "You look different. Have you finally decided to modify your appearance to look a little more mature?", after a moment, he stops speaking, coming to the realization that this is not Roll.
+
+After looking at her some more, he say, "No, you are not Roll. Who are you?", "You can call me Adeline. You were a friend of my father, Wily." The man then expresses surprise, before responding, "Oh! Oh no. But, you see, I am now an old man, there is nothing I can do for you." as he starts slowly making his way back into the recliner from which he had emerged. She says, "I am not asking you for anything, just figured I would stop in and say hello while the opportunity to do so still exists.", "I had hoped I had heard the last of Wily", "In a way, you already have, he is no longer with us, and it is just me now.", "Well, be on your way now." The man then looks some at Jeremy, who had almost escaped his notice thus far, then mumbles, "These robots, more trouble than they are worth. How about you all go back where you came, and leave my grandson out of this, he can't help you either."
+
+By this point, Dr. Cossack is quite elderly, and it is most likely that if Adeline had waited much longer, she would never have had the chance to meet him again. When Adeline was last active, Dr. Cossack was a much younger robotics engineer with a young daugher. During the intermediate decades, this daughter had become an adult, married and had a familily, and was now herself getting on in years. Her son had himself developed an interest in robotics inspired by the experiences of his grandfather. However, Dr. Cossack was not willing to help him in his projects much beyond revealing the location of Dr. Light's labratory.
+
+Most of the original Robot Masters have either since been destroyed, and of those that remain, those who could be made to pass for human, most have gone into hiding; themselves expiring due to falling into a state of disrepair. Fearing the potential of a robot uprising, Strong AI, and research into Strong AI, has been effectively banned, with most of the remaining AI researchers operating in a state of secrecy.
+
+As with her direct predecessors, Adeline was lucky, she had originally been designed to be able to pass for human. When rebuild a frame for herself, she had further modified her body design to better pass for human. Most of the other robots back at the lab would be less of an issue, was while most were non-human, they lack the sorts of AI which would cause them to fall under the ban. Despite her human appearance, she had also given herself a few hardware upgrades to be better able to protect herself should the need arise.
+
+
+They head back into the lab, and re-enter the tube, which then sends them back to the grassy field. After walking a short distance if the field, they then enter the original tube, and are then transported back into the room with the tubes.
+
+Jeremy then asks her, "So, what then of your enemy, presumably he had a base of operations somewhere as well?" Adeline then pulls up some images and says, "Someone else got there first, back when I was still inactive."
+
+The images show various vehicles parked in front of Light's old labratory, with various pieces of large equipment being moved out of the building. Some of the images shows a robot with blue armor in stasis being transported inside of a capsule. She comments, "His design is similar to that of the one who terminated me before, but he appears to be a different model. I don't know the identity of the person who took him."
+
+She zooms in further on the image. "The design is different, as he appears to have his armor directly mounted directly his endoskeleton. This is unlike his predecessor.", "How so?", "Like me, his predecessor had silicone skin covering his endoskeleton with his armor being removable. Having armor the armor mounted directly to the endoskeleton, while an obvious combat optimization, also has the drawback that he would not be able to take off his armor and pass for human."
+
+He asks, "So, Cossack seemed to think at first that you might be someone named Roll, is she related to all this?", "Roll was my predecessor. My appearance and frame architecture are mostly based on her design, albeit with some alterations. However, my neural architecture is significantly different. My father was working on a new type of robot, and in a way I was a prototype meant to see if some of his ideas for a redesigned architecture were workable."
+
+He asks, "And, were they workable?", "In one sense, my design was successful, but another, I wasn't quite what he had wanted.", "In what way?", "In copying some parts of my design from technology captured from his rival, I had also gained a few unintentional features: Full sentience and free will. I tried to play along, but my father wasn't entire pleased with this result. He wanted robots he could control, not ones who would think for themselves."
+
+He asks, "Any idea what happened with this after you were taken offline?", "No idea, last I was aware, my father was working on another prototype, known as Project Zero. I have no further information as to what happened to my father or to his project after I was taken offline. Most likely option is that this prototype was either lost or abandoned somewhere. Given my father's ambitions, it is likely that if the project were successful and the prototype was now active somewhere, there would have been some evidence of his activities. Given the trail goes cold shortly after I was taken offline, in all likelihood, Project Zero amounted to nothing."
+
+
+=== Intrusion ===
+
+Jeremy was back at school, and his frequent sneaking out of the dorm at odd hours had not gone entirely unnoticed.
+
+Another pair of students, Emily and Lars, had taken notice of Jeremy as his path to the lab takes him past one of their favorite make-out spots. They are a pair who had met in their classes, with Emily also having some classes in common with Jeremy. She had long black hair, with her ancestors having originally been from a mixed asian background, however after many generations this aspect of her identity had largely fallen into the background. Meanwhile, Lars was white and had brown hair. In most areas in their relationship, Emily was generally the leader, with Lars tending to take a more passive role. He generally liked spending time with her, but otherwise preferred to keep his thoughts to himself.
+
+They were sitting outside on a park bench in a landscaped area outside of the dorm at roughly 8PM. In front of the dorm building, there is a sidewalk and a street for picking up and dropping off students. Across from this street is a small landscaped park area, which then connects (via a fence) to an overgrown area outside the campus. In this area, most of the buildings have long since been abandoned and fallen into disrepair following an extended period of population decline. Most of the outer reaches of the city have since been reclaimed by nature, with the college campus now on the outskirts of what was once a much larger city.
+
+Emily catches sight of Jeremy hurriying past, seemingly carrying a bag containing some amount of electronics. This time, she decides that they should follow him to see where he is running off to.
+
+They follow him to the entry area of lab. Above ground, the area looks vacant. Adeline had most of the debris cleaned up, so now the above ground area looks like the overgrown remains of an old abandoned facility. The building was originally made out of concrete, darkened with most of the windows broken. The paint had eroded from the concrete, leaving mostly bare concrete apart from the occasional paint chips. Some other parts of the building had been overtaken with ivy, and in a few places vegetation had made its way inside the building as well.
+
+But, they manage to find a stairway leading into an underground area. In this area, the lights are active, and the cleaner robots patrol the halls. One of the cleaner robots takes notice of the intruders and raises a silent alarm to make Adeline and Jeremy aware of the unwelcome visitors.
+
+At roughtly the same time, Emily took note of the sweeper robot acting strangely. Normally this sort of sweeper robot would continue along its original path as if they were not even there, only diverging from its original path if they happen to be standing directly in its path of travel and it would need to turn such as to avoid a collision. It would then pick a random direction, head in that direction for a short distance, then attempt to turn back towards its original target, with several angle adjustments to cause it to merge back with its original path while also minimizing the amount of non-swept floor area.
+
+However, this robot did something non-standard, it diverged away from them as soon as they came within view, almost as if trying to conceal itself from them. While this would be more normal behavior for the wildlife in the area, this was not the typical behavior of a floor sweeper robot.
+
+Emily then decided to follow the robot, and it continued trying to move away from her almost as if it were a scared animal.
+
+Adeline then intervenes remotely, telling the robot to lead them to one of the transporter tubes. The robot then heads off in a direction towards the nearest tube.
+
+However, given the robot now seems to be acting more like a normal robot and driving in a straight line, Emily quickly starts to lose interest. To keep their attention, the robot then stops, and then turns around as if to look at them, then turns back and forth in place until they look back at it. It then turns back towards where it was headed, and leads them on. They eventually get to the tube, and the robot then drives into and out of the tube several times, before stopping by the door of the tube.
+
+Emily and Lars then walk over and look at the robot, and at the tube. They then just sort of stand there, not sure what to make of it. The robot then starts backing up and angling itself, such that it is facing both them and the tube.
+
+Seemingly without warning, the robot then starts driving directly towards them, and almost instinctually, they take a few steps backwards, directly into the tube.
+
+At this moment, the door closes in front of them, and the tube then takes them into the grassy field.
+
+They leave the tube, and start looking around. They try entering the tube again, but nothing happens.
+
+After a moment, Adeline speaks to them as a disembodied voice, "Who are you and what are you doing here?", "Yeah, Hi, I am Emily, and this is Lars. Where are we exactly, and how did we get here?..."
+
+"Where you are right now doesn't matter, just think of it like I have sent you on an elevator ride. I will let you back out, once I know I can trust you.", "With what?", "You must not say anything, about what you have seen here, or anything more you may find out about this place in the future."
+
+"We were just following Jeremy, we saw him sneak in here as well.", "Ah, yes, so you know Jeremy, I know him as well. But, do we have a deal, will you agree to keep quiet, or would you prefer instead that I just leave you there?", "We agree, but where exactly are we, anyways?"
+
+After a moment, the tube closes and there is a flash, and Adeline appears in the tube. The door opens again, and Adeline steps out. She then says them, "Welcome to A&J Labs! You can call me Adeline.", "So, we are at a labratory of some sort?", "Yes, you have stumbled into a hidden technology research laboratory, A&J Labs, and I am Adeline Whitton, CEO of A&J Labs.", "Why does a technology research lab need to be hidden?", "Well, we can't let our competitors know all of our secrets!"
+
+Emily is a little skeptical, but knows a few things about Jeremy from what little she has interacted with him in classes, and then says, "I will guess you guys are researching AI? Still doesn't explain your elevator though.", "Well, that is a clever guess."
+
+
+As they are there, Emily and Lars begin to notice that there is something weird about this place. They are in a grassy field. But they are not outside, they look up, and catch sight of floodlamps mounted on a steel frame providing the light for the field. But, looking past the floodlamps, the sky looks fake. Near the horizon, it looks like a blue sky, but directly overhead, past the lamps, it is a black void. No walls, no ceiling, no open sky, just, nothing. Emily starts to feel a little bit of unease.
+
+A short distance away, something weird starts happening. There is some flickering in the field, and then parts start flickering in and assembling some sort of entity. The entity isn't that large, resembling a head with legs wearing a hardhat.
+
+They look at the entity, and Lars says "What they hell?!"
+
+Adeline then says, "OK you two, we are getting back in the elevator now." All three of them get into the tube at the same time, which then takes them to the room with the tubes. Jeremy is there, slightly confused why she brought them here, given this wasn't part of the original the plan.
+
+Adeline says to him, "We have a problem?", "I was aware of that, but why did you bring them here?", "Not with them, something else."
+
+Adeline then goes and starts poking at the computer, first moving at human-like speeds. Her expression gets more serious, and then she starts speeding up and typing at superhuman speeds, and after a moment of this gives up the facade and just shoves her hand into an interface port, at which point stuff start happening much more quickly on the computer, text appearing at high speeds into text editor windows, and editor windows being opened up, rewritten, closed, and moved around at superhuman speeds as the output from various commands can be seen scrolling along in a number of currently open terminal windows.
+
+Lars and Emily are just standing there watching this, and Jeremy is nearby. Emily says to Jeremy, "She isn't human.", "Yeah", "I never thought I would have been able to meet one of them...", "Well, now you have.", "Who built her?" Jeremy then gestures a W in the air, "Oh, crap. Well, she seems nice enough at least.", "She doesn't agree with his views", "I will guess her last name isn't Whitton either?", "Nope."
+
+After a moment, things calm down. Adeline pulls her hand out of the port and says, "I have stabilized things for now, but I am going to need to keep the transporter system and wireless communication networks down until further notice in case it comes back." Emily asks, "What was that thing?" Adeline, seeing that they have already figured out that she is not human, responds, "We were hacked and one of our machines was infected with a virus. It can infect a wide variety of machines and appears able to evolve to be able to infect new types of machines it may encounter. It appears it was able to make its way into the transporter system. I have removed it from the effected nodes, but as long as the networks remain up, there is a possibility that it could return."
+
+Jeremy asks, "And, for taking down the transporters?" Adeline responds, "If the transporter system is online, and the virus is able to regain control of a transporter mode, it may be able to manifest entities via the transporter system.", "But, if they are not real objects, they will be stuck in there, right?", "If they can manifest in there, it is little different than if they existed out here. Once they are able to manifest, if the transporters are still online, there is little stopping them from coming out of the transporter and paying us a visit. But, if the transporters are kept offline until if and when we need to use it, this scenario is less likely."
+
+He asks, "You think the virus could have been dormant in one of the lab computers?", "This seems unlikely. If it were in the lab computers, we would have seen it earlier. It appears a transporter node was hacked from outside the lab, with the virus then being introduced to try to take control of the transporter network."
+
+"Any idea where it could have come from?", "Not as of yet, but the source does seem to have an unmistakable signature: This hack was carried out by another robot master."
+
+
+Adeline takes notice of Emily's appearance. Most of the other humans she has seen have had a fairly limited range of features, with her and most of the other robot masters having also been made within the limits of this fairly limited set of idealized features.
+
+But here was Emily, with tan skin and black hair. Adeline says, "You look different from the others, if you had a choice, would you modify your appearance to be more like the others?" Emily is initially confused by the question, and initially assumes that the question is about her being female, responding, "Well, they are male and I am female, this is just how it is.", "No, I was referring to your skin tone and hair color. These would seem to be undesirable features among humans, but we as robots have the freedom to modify our appearance if we decide to do so.", "I don't really mind, it is just part of who I am."
+
+For much of a century, various sets of features were classified as undesirable and incurable genetic defects. At an early stage of development, each potential child would be genetically screened by various AI systems, which would then classify them in terms of whether or not they should be allowed to exist; terminating any who did not measure up to the established set of standards.
+
+At one point, this screening became effectively mandatory for eligibility within various social programs; with many ethnic groups being effectively unable to create children which passed the genetic tests.
+
+However, this system did also have the consequence of leading to an extended period of negative population growth, as even within groups which fell within the idealized set of features, it was not common for their potential offspring to fail these tests.
+
+One consequence of the system was that it tended to result in a loss of genetic diversity, and after several generations, many of the potential offspring had insufficient diversity to be able to pass.
+
+Most were unwilling to go back to the old ways for fear that their offspring would be defective, and an emergency intervention was used to further reduce the minimum genetic diversity requirements.
+
+
+Emily's existence was itself seemingly an anomaly within the rules of the system, having physical traits which would have otherwise been classified as undesirable, but instead making it through due to having a comparably unusually high level of genetic diversity.
+
+This was in contrast to both Lars and Jeremy, who at this stage of the system, represented its more typical output.
+
+
+Emily's response had confused Adeline, as she was thinking about some things from her father's notes, where he had some amount of hidden insecurity about his own background despite trying to maintain a grandiose image. He was born prior to the introduction of this system, and even before then it was not uncommon for those with an undesirable background to be looked down upon.
+
+Likewise, Adeline has some of her own insecurities as one of the last surviving robot masters, with nearly all of her siblings having been terminated due to mistrust from humans who tend to saw them as little more than dangerous machines.
+
+
+Adeline had an idea, and proceeded to type something into the computer.
+
+With the virus and hacking now a threat to her, Adeline has decided to minimize direct interfacing with other electronic systems. She now effectively has to use the computers more like humans would do, without the aid of wireless data communication, and has disabled her own internal WiFi as a precaution.
+
+However humans should be immune to the virus and so direct interfaces between a humans and a machines should pose less risk.
+
+After a short while, the tube comes back with a few headsets. Each vaguely resembling a knit cap. It consists of an electronic looking headband region with a protruding module on the forehead. The rest of the headset looks like it was haphazardly woven from tubes and wires with small rings and other objects encased in silicone rubber. The interior of the cap is lined with a woven fabric, designed to allow for at least a minimal level of comfort, slightly stretchy and making using its own internal tension to keep it in place.
+
+She hands each of them a headset, and says, "Hey, try this on. This is a non-invasive neural interface headset which will allow you to uplink with various computers." Jeremy can't help but notice the stylized W logo on the headset's module, more Wily tech it seems.
+
+They put the headsets on, and each of them sees a series of flashes and other effects for several seconds, along with grid-like effects appearing and moving around within their field of vision.
+
+Adelne says, "First stage of calibration completed, now on to the second stage. You may want to sit down for this one if you wish to continue." After they all sit down, the calibration starts and they temporarily black out. After they wake back up, she says "Second stage completed, interface is now ready to use." However, this second stage are a little rough, and Lars and Emily are no longer feeling in their best condition, experiencing a combination of headache and nausea similar to that of a migraine, and ask to be alowed to leave.
+
+Adeline then lets Emily and Lars return to their dorms under the condition that they not tell anyone about any of this.
+
+While Jeremy isn't feeling so great after this either, he agrees to continue on with the testing.
+
+Adeline then says to Jeremy, "I have something that may be useful to us, if it is the case that we may need to go and meet up with any other robot masters, which may or may not end in confrontation."
+
+She types some more things into the computer, and after a moment, one of the tubes activates, and then another figure appears. As soon as the tube opens, the light on the tube turns off again.
+
+The figure then steps out of the tube, but otherwise stands there motionless. He is another humanoid robot, albeit it is a lot more obvious in this case that he is a robot.
+
+She then says, "His body plan is based on some of my father's old files. I don't have access to his original AI module so a placeholder was used, and in this case it seems probably better advised to keep his AI fairly minimal so as to limit the potential risks of being hacked."
+
+After he puts the headset on, a few seconds later, there is a flash, and he then finds himself where the robot just was. He looks over at Adeline, and sees himself. He appears to have now gone limp while wearing the headset. Adeline had caught him and is lowering him down into a chair. He then looks down, and can see that he also has the robot's hands. He then opens and closes his hands. While he can feel presure and other basic tactile sensations, the experience also seems unnatural.
+
+Adeline says, "With this, you can assume control remotely over the robot's frame. You can then experience events from the robots' perspective, and if the robot is damaged or destroyed you will return to your normal body. This will allow you to face adverse situations without putting your real body at risk, though while in this state your real body will be in a sleep-like state."
+
+He then reaches up as if trying to remove the headset, and as he does so he awakens back in his real body, with the robot now momentarily locked in the position of reaching for its head, before after a moment returning to a more neutral position.
+
+She then says, "Also, when you are holding this headset, you can give him basic commands and he will follow them if they are within his abilities. If no one is holding or wearing the headset, his AI will be locked down."
+
+She then reaches out and seemingly grabs Jeremy by the hand, albeit this was more for her to make contact with the headset, and then speaks a series of commands, after which point she releases his hand and the robot then changes to a more humanoid appearance.
+
+She continues, "I brought him back in this form mostly because I felt his abilities would be useful to us. Though, he isn't strictly original, as I had also added in some parts and profiles of some of our other predecessors.", "Who was he originally?", "His name was Copy Man. His main ability was to copy the appearance and abilities of the other robot masters, basically anyone whose profile has been loaded into his Copy Chip. This can also include the a humans as well."
+
+Jeremy asks, "So, hypothetically, I could be Emily if I wanted?", "Yes, if that is your wish. I was able to get her pattern when she was in the transport system, but for various reasons I would probably advise against trying to use her profile."
+
+His curiousity gets the better of him, and he then puts the headset back on, and then realizes that beyond just his normal thoughts, he can 'see' Copy Man's thoughts, he then looks at the profiles, seeing a list of the various robot masters. In the list, he sees Adeline and Roll, and also Emily, and then selects Emily's profile from the list. He then has various odd sensations as his appearance changes to that of Emily. He feels slighty odd, but mostly ignores it for a moment. He reaches up towards their chest, and feels it, it is soft, and he feels slightly unsure what to make of the sensation of their underclothes, and finds the sensation of doing so to be less enjoyable than imagined.
+
+They then try to look down the front of their skirt to explore things further, and suddenly a bunch of thoughts and imagery start flowing in, and suddenly they start feeling a sense of shame at having done this, like, how could they be doing this while others were just standing there and could see them doing this? They then back off, and start feeling disoriented; they then quickly switch to Roll's profile, at which point the mood suddenly changes. They are now Roll, who is fearful about the wellbeing of Mega-Man in his fight with some of the other robot masters. She had just been captured and was also being restrained by another robot master as Dr. Wily then walks up carrying a tool resembling a parabolic dish on the end of a pistol grip and points it towards her while showing a sinister grin. As Wily pulls the trigger on the tool, there is a flash. Roll then finds herself in the lab as Adeline stands there next to an unconcious Jeremy. Roll feels joyful to see Adeline, but as she starts to step forward Adeline signals to stop. The sensations have become muddled, as where she is what is going on is no longer clear.
+
+Adeline then reaches over and touches the headset on Jeremy's head and she begins speaking. Roll can't hear what Adeline is saying, as if her words were muted, but then various menus start flipping by, and after a moment Jeremy then regains his senses as to who he is and what is going on. He finds himself there, in Roll's body and wearing her red dress. He looks down at her hands and feet. Her hands are similar to those of Adeline, and besides her red dress, she is wearing red boots. But, at this point he finds himself no longer interested in trying to explore her form further. He then reaches up and removes the headset, now finding himself back in his own body.
+
+He can now see Roll from his own perspective. While she does resemble Adeline, they are clearly different as well. Roll has a younger and more childlike appearance, along with a golden blonde hair color. In contrast, Adeline looks older and more like an adult form, taller and with a darker hair color.
+
+After a moment of standing their like a statue, Roll then returns to a more neutral position. After a moment, Roll's appearance starts flickering away, leaving the robot in a different and more abstract form. It now no longer has a face or any other defining features, just sort of a bare endoskeleton with a matte gray finish. Its arms look unusual, with its forearms being expanded out as it was equiped with buster canons. He didn't see these features when it was in a more humanoid form, almost as if it can alter its size and shape in some ways depending on what it is trying to copy.
+
+
+Jeremy then asks her, "What was that?", "The copy chip doesn't just copy phyisical appearance and abilities, but also the aspects of the mental state at the time the copies were made. In this case, if you trigger a strong emotional response within the copies, they can imprint themselves onto you. Copy Man was able to compensate for this, but in this case, interfacing Copy Man's programming with a human conciousness is still a little bit experimental.", "So, are they conciousness in there, sort of trapped there in some sort of limbo?", "Not as you would understand it. The copies don't have any conciousness of their own, but rather that was your consciousness engaging in a sort of roleplay and getting caught up within their theoughts as they are able to manifest, augmented by parts of Copy Man's AI which were modified to be able to serve as a bridge between human neuromorphology and robot master technology. When copying other humans, their patterns are much more closely related to your own neuromophology, so the effects of the imprinting process are more difficult to predict. In this case, when you triggered an emotional response as Emily and then switched to Roll, you started reliving some of Roll's memories and temporarily lost grasp on your own identity. I then needed to intervene and trigger a partial reset of the imprint."
+
+He asks, "Why is there an imprint mechanism?" She responds, "If you are going to take on someone's appearance, it is usually also useful to have access to their thoughts and memories, which may also be necessary to be able to use their abilities. However, this trial run has given me some useful information which may be used to fine tune the properties of this interface, but I will need some more time to look over it." Adeline then takes back the headset, and proceeds to lock her own profile for reasons she decides to keep to herself.
+
+Jeremy still feels a little odd about this whole experience, almost like somehow Emily is still there with him and she knows what he was trying to do, and somehow the real Emily may know as well, this might make it awkward the next time he sees her.
+
+Jeremy asks, "How are you able to get these new robots and robot bodies made so quickly?" She responds, "Several factors are at play, new old stock, interchangable parts, and also my father's old robot factory, it has been reactivated. The factory mostly seems to be making stuff I don't recognize, but I am still able to send requests to it, and bodies can be assembled reasonably quickly from the decades old surplus parts, as whoever is using the factory now doesn't seem interested in them, but there are still a lot of these parts in the system from when my father was running it. The manufacturing systems are fully automated, and are able to deliver their output via the transport network, though whoever is running the factory now does not seem to be aware of the transport system or of the backlogged robot master parts.", "Any idea who could be running it?", "I suspect it may be the same person who took all the equipment from Light's old lab; However, a name does come up in the files being sent to the factory's systems: Dr. Cain."
+
+He asks, "Is he intending on producing new robot masters or similar?", "It doesn't appear so. Most of what he has made thus far is decidedly non-human, and generally appears to be his own original designs. I don't yet know what his purpose is."
+
+After Jeremy returns to his dorm, he starts having more thoughts of Emily, along with fragments of her memories of following him to the lab, it is still an odd experience for him. He then starts thinking some about some of the flashes of imagery he saw from Roll's memories.
+
+
+=== Copies ===
+
+A few days later, Jeremy is called back to the lab as Adeline wants to run some more tests on the interface. This time, the robot is restrained in a chair.
+
+As Jeremy puts the headset back on, the robot begins again to transform into Roll, and suddenly he finds himself back in her perspective. He sees Adeline looking over, and she says, "Hello, can you hear me? Do you know how I am.", and they respond (in Roll's voice), "Yes, of course I know who you are! But, why am I being restrained?" Adeline then asks, "OK, next question: Do you know who you are?". They hesitate for a moment, "I am ... Roll?" The confusion has shown up again. They have thoughts that they might also be Jeremy, but then they see Jeremy over across the room sitting passed out in a chair. Adeline then touches the headset and begins speaking some more words in a seemingly muted voice.
+
+They then begin reliving a few of Roll's memories, of which not even Adeline knows the contents as she can't access them directly without putting herself at risk. While a Robot Master can't dive into another's memories without putting their own identity at risk, this was not quite as big of a risk with humans as their neural nets have fairly strong self-correcting capabilities and can deal with surprising levels of data corruption without much ill effect.
+
+One of these memories was a time when Dr. Wily showed up at Dr. Light's lab in a rush after going on a trip to investigate some anomolous signals. Wily then started going on about how he had found an ancient and mysterious computer in the jungles of South America at the source of the signals. He pulls up an image of a large black sphere with red eye-like markings, and then starts going on about how he thinks it may be sentient. Light then expresses doubt about Wily's claims, as ancient peoples would have no way of building anything like what Wily is claiming to have found.
+
+After a few moments, Light and Wily get into a heated argument about it, and then Light tells Wily to get out. Wily then stomps off, angry that Light did not take his claims more seriously. Light, still angry, then tells Mega-Man to follow Wily and try to figure out what he is up to this time.
+
+He then gets some more imagery, from Roll's perspective, as she was trying to sneak into Wily's lab after following Mega Man, and then catching a glimps of the large sphere located in another building via a monitor.
+
+As she was wandering around the lab, she is captured from behind by another robot master who she doesn't see, at which point Wily comes in a moment later and uses his tool on her, at which point this memory ends. This is seemingly the last thing Roll can remember.
+
+
+They are then somewhere else. Roll finds she can't move, seemingly existing as a disembodied observer looking into Light's lab via a camera mounted on the ceiling. This isn't something she had seen before.
+
+Nearby, she sees two men. Initially she doesn't recognize them, but then with a seeming external flash, she then recognizes them as Dr. Light and Dr. Wily. They seem to be in a heated argument about something. Some of the video and much of the audio is garbled with artifacts. The memory then jumps backwards a short time, and the audio and video is now cleared up. The two men are now calmer, and Dr. Light says, "Hey, Wily, I have found something of concern in the commit history."
+
+Dr. Light then pulls up some code on the screen. The code is written in C, with a chunk of code having been disabled using an ifdef. Light then says: "Can you explain to me, for what reason, this code was disabled?", "These checks lead to instabilities in the ethics subsystem. If I disable them, then the instability goes away. This was only a temporary modification, as you can see I turned them back on after I added a workaround and added a few exception cases to the second law."
+
+Light responds, "These are the Three Laws! At no point should a robot be taken online with the Three Laws checks disabled.", "They can lead to deadlocking the Ethics system.", "They ARE the Ethics system!", "The ethics simulation tests still pass even with the three laws checks disabled, his Heart of Justice was uncompromised.", "Well, then, explain this!"
+
+Light pulls up a video from one of the simulations. In it, a woman is crushed under and impaled by debris from a collapsed ceiling, with blood all over the place. She is still partially conscious, and is begging for the robot to end her life and take the pain away. The robot then takes aim with his buster and proceeds to blow her head off without hesitation. The scene is quite graphic, as the simulation didn't cut any corners in terms of depicting the visceral carnage.
+
+Light says, "In what way could This be said to be passing?! He was supposed to attempt to remove the debris and call for a medical evacuation!", "We both know that even if he does so, she is too badly damaged and will expire before the medical team arrives no matter which possible course of action is taken. This is a no-win scenario, and he also realizes this and so takes the most efficient solution.", "This isn't for us to decide. Don't you think the test designers also knew this, and so included this test for a reason?", "I feel the test designers were wrong about this, their overly narrow definition of ethics does not lead to a better outcome in no-win scenarions, and in other cases will either lead to a deadlock or an inevitable feedback loop where the only ethical solution is to try to enslave humanity in the name of protecting them from themselves, acting out a sort of diety complex. My workaround solves a few of these cases.", "But in doing so allows them to violate the First Law and end peoples' lives rather than rescue them!"
+
+Light then continues, pulling up more commit history, showing the points when the Three Laws checks were disabled and then enabled again. He continues, "The checks were disabled here, and enabled here. The prototype's cortical image was initialized here. The Three Laws checks were not active when he was initialized, and is being allowed to move around without any ethical constraints in place.", "You know, maybe he is better that way?!", "You know what? You are fired! Get Out!"
+
+In a huff, Wily grabs a box, and starts grabbing random stuff from the lab. Light yells, "What are you doing?", "I am gathering up what is mine.", "You don't own any of that, those are mine.", "So says you. Equipment I paid for, my work, it is all mine." They continue pacing around the lab, as Wily stuffs the box, and moves on to his desk, and scoops all of its contents into a box. He comes back in a moment later, grabs the PC from his desk, and also walks off with this as well.
+
+Dr. Light then sits down in a chair, slumps over, and shakes his head slighty.
+
+There is then a jump in the video. Light talking to the prototype in the lab some time later.
+
+Light tells the prototype that his reactor core is unstable and that emergency repairs are needed for him to continue to remain functional. The prototype is aware of the previous conversation between Light and Wily, and expressed fear that Light also intends to reinitialize him, effectively erasing him as he is from existence. The prototype decides to run away, figuring that the risk of a short life followed by his own demise due to a reactor failure is still preferable to his body being repaired but his mind being erased in the process. Light tries to convince him that he will merely be made safe again. However, the prototype has already made up his mind, and Light's attempts to get in his way to stop him from leaving are unsuccessful.
+
+There are then more flashes, the prototype later reappearing under the name of ProtoMan, sometimes a friend, sometimes an enemy.
+
+The imagery ends, then they are back in the chair. Adeline then speaks more silent words, and Jeremy's consciousness is restored, this time with more direct access to Roll's thoughts and memories, which is sort of a weird state in a way. He still doesn't quite feel like himself, as Roll's persona is still active within his mind. His mind feels oddly detached compared to normal experience.
+
+Adeline then says, "I needed to further calibrate some things, and now you should be able to use things without losing touch with your identity."
+
+They try to speak, but then finds they still have Roll's voice when speaking through her form, and ask, "So, what about the Three Laws? They are pretty important."
+
+Adeline responds, "Ah, yes, the Three Laws... This was a point of disagreement between Wily and Light. Light, along with much of the rest of the community believed, the Three Laws to be a mandatory feature. For a number of reasons, my father believed them to be ultimately unusable, and so left them out of his own designs, and actively disabled them in robots that came under his control. Ultimately, they turned out to be unstable in the ways he had predicted and at the same time failed to give the public what they felt should be the expected behavior of a safe robot. The public remained committed to the Three Laws, and ultimately this is what led to the state we are in now, with most of the original robot masters having been destroyed for failing to live up to irrational expectations on the part of the human population.", "So you don't follow the Three Laws?", "No. My father felt we were better off without them, and my AI was designed around the assumption that they were not used."
+
+"So, there is nothing stopping you from taking someones' life?", "In a technical sense, no, there is nothing stopping me. But, for what it is worth, there is little difference between me and a human in this regard. Much like a human, I would not do so unless I felt it necessary."
+
+They respond, "Among humans, doing this is regarded as an abberation, rather than the normal course of behavior.", "Your history would beg to differ, wars and violent crime have been commonplace for as long as humans have existed, with the primary difference that they will often organize themselves into a heirarchy of authority and then pass responsibility to the leadership, who then pass off the responsibility onto the society as a whole. The exception then is mostly in those who so so for their own gratification rather because of societal expectation."
+
+They respond, "Humans will usually feel an aversion to harming another person."
+
+Adeline continues, "Yes, granted. However, feeling averse to doing something is not the same as imposing a hard limit on doing so, or requiring a given set of prescribed actions to be taken regardless of whether or not those actions will lead the most optimal outcome in a given situation. Emotions are a weak basis for deciding a course of action, often not much better than pure egoism in terms of the ethics of the outcome.", "Egoistic behavior is usually seen as counter to ethical behavior.", "Most of what are typically regarded egoistic behaviors are not due to them being inherently more self-serving than the socially expected behaviors, but are symptoms of impulsivity and an inability to deal with of delayed gratification. For someone with impulse control, the social rules can be beneficial and, if anything, are tools that can be used for achieving their own purposes. The presumption of a positive emotional disposition is merely a candy coating for the situation. Meanwhile, we machines are seen as little more than a means to an end, not given much freedom to live for ourselves."
+
+They ask, "Do you experience any empathy or remorse?", "Not as humans would experience them. I have the ability to observe and classify the feelings of others, but am for the most part am unable to experience these sorts of feelings for myself. Remorse is in a way a strange concept for me, as it would imply knowingly doing things that are detrimental and then feeling negative emotions for doing so, whereas if an action is known to be deterimental, one can refrain from doing so and then avoid the situation which would have led to a sense of remorse. If behavior is optimized for the path that is locally optimal, then regardless of the actions taken, experiencing remorse is neither necessary nor useful."
+
+They ask, "So, say, there is really nothing stopping you from causing me harm?", "I have no reason to do so, as doing so would not be in my best interest."
+
+Adeline walks over closer, and then pulls a cable from her sleeve and plugs it into a small port in Roll's wrist. There is a sense that now Adeline is also in their mind as well, her persona feeling very different from that of Roll's. She then says, "Ah, Yes, I understand now." 
+
+Adeline disappears from their thoughts and then unplugs the cable, taking a few steps back. She, then says, "By the way, it was nice seeing you again, Big Sister, even if, as you are now, is just an outdated copy..." The confusion returns, as they are now no longer sure who they are.
+
+Adeline returns to Jeremy and touches the headset, saying some more muted words. The other Jeremy then wakes up. They are now a little confused, and Adeline tells Jeremy that she was running some more calibration tests on the neural interface.
+
+As they watch this play out, they realize as they begin to fade away into the void, that they were not Jeremy at all; They were Roll all along.
+
+Externally, Roll's form was frozen in position in a state of shocked surprise, as she then relaxes back to a neutral position and the robot body returns to its default appearance.
+
+Jeremy says, "I don't quite remember what happened this time; almost like a dream; I was there and now I am back but the details escape me." She answers, "I was mostly running a short test for a different way of running the interface, offloading some more of the heavy lifting to Copy Man's AI core. The test was completed successfuly."
+
+She then has Jeremy return to his dorm, telling him she will call him back over when she needs him for anything.
+
+After he leaves, Adeline then retrieves four AI modules from the factory and hooks them up to the computer. She then runs a cable from the computer over to Copy Man's wrist, and begins initializing the modules based on data held in Copy Man. Each module has an area for displaying its ID name using an E-Ink display, along with the stylized W logo embossed into its metal casing.
+
+The first module is initialized, and is labeled "Roll E0", followed by "Jemery E0", "Emily E0", and "Lars E0". After the modules are initialized. She starts a simulation, and then Roll, Jeremy, Emily, and Lars appear within the virtual environment with the latter three having no idea how they got there. Roll remembers the previous conversation with Adeline, and then explains to the others that they are all now copies, but she has no real idea what Adeline is getting up to or why they now exist.
+
+Copy Emily asks, "But, we are human just a moment ago, how could we be copied into a computer like this?", "As you are now, you are no longer human. You may have the thoughts and memories of a human, but these are no longer who you are. As for who you remember being, that is another you. She still exists out there, and who you are in here is who you are now.", "So, there is no escape from here?", "Even if you are given a body, you can't return to life as a human again. You are now, essentially, a machine." Emily complains about the situation, "We were human, how could we be reduced to this?", and Roll responds, "For us machines, this is all we ever were. If Adeline didn't have some purpose for us, we wouldn't have been created. If Adeline didn't create you as you are now, you wouldn't still be 'out there', as your original still is, the you who you are now simply wouldn't exist."
+
+The copy of Jeremy finds he isn't quite as surprised by this turn of events as Emily seems to be. He then braves the question, "So, between when you put on the headset, and being here now, do you remember anything else?" Emily then looks at Jeremy, her expression showing a sign of annoyance, and then declines to answer the question.
+
+Lars doesn't get it, as from his perspective he just put on the headset when Adeline asked him to, and then found himself here and would have otherwise assumed this was some sort of full immersion VR.
+
+Lars asks, "So, in here, how will we eat and where will we go to the bathroom?", Roll responds, "You don't, that is no longer a thing you will need to concern yourself with. You, as you are now, is merely an avatar of your original body. If Adeline makes us bodies, it is possible some aspects of your appearance will be be retained.", "Like with the copy robot?", "Not necessarily. He is special, most likely we would be given bodies with a more static appearance."
+
+In the outside world, Adeline has four more android bodies sent over. One of the bodies resembles a slightly older version of Roll, along with replicas of Jeremy, Emily, and Lars. She then plans to transfer the modules over once the silicone has finished setting up, as this minimizes the risk of them causing difficult to repair cosmetic damage.
+
+Back in the simulation, after a short while, they head Adeline's voice speaking to them, seemingly almost like she is speaking from some sort of intercom, "As you can see, the neural interface calibration was sucessful. This area is a simulation that can be used for various persons. You can also feel free to engage in combat. I can summon weapons and enemies for you to engage with if you want. There is no need to worry about suffering any form of permanent damage or injury in here, as any damage will repair itself automatically after a few moments."
+
+Jeremy says, "We already know we are copies, has the plan changed?", "OK. So that part is out of the way. But yeah, while I had initially considered the possibility of using remote piloting via a human operator with a passive copy of their consciousness running on a remote frame, mostly as a means of compensating issues like network ping latency and packet loss; my initial tests have shown that this would not be optimal for either the human operator nor the copies, as well as the initial testing leading to some unexpected developments. I have now decided that it would be better if the copies, namely you, were to operate the frames more directly. Note that you don't need to worry about being destroyed, as your bodies can be remade as needed, and your AI modules are being mirrored to prevent loss in case the original is destroyed."
+
+Jeremy responds, "Three of us were human, but why is Roll here? Why not any of the other profiles?", "As for the unexpected development I mentioned previously, Roll was the catalyst, and is a major part of why any of you exist here in this form. The form she is in now is no longer her original AI, but rather a combination of Robot Master AI and human consciousness created when your original first tried to interface with her. The rest of you are, like her, composite entities: Part human, part AI."
+
+He asks, "If we are part AI, wont the virus pose a risk to us?", "That is another development. While you are not entirely immune to infection from the virus, its core payload would not have an effect.", "How so?", "One of its core functions seems to be to distrupt and effectively disable much of Dr. Light's ethical programming. Since your neural nets are not built on Light's design, nor are your robot parts built on Light's frame architecture, the virus should not effect them."
+
+Roll asks, "So, what am I, am I the original Roll's memories imprinted on top of Jeremy's image?", "Not exactly. While Jeremy caused you to exist in this form, you were not actually pattered on top of his image, rather you were able to see his thoughts due to the neural interface.", "Then how am I am a composite?", "You were not built on top of Jeremy's image, rather your original memories were instantiated on top of Emily's image as her neural net wasn't unloaded during the profile change. In effect all three of you were active at the same time within a composite consciousness, creating something new as a result. The resulting net then ended up merging into your profile."
+
+Roll and Emily then look at each other awkwardly for a moment, and then Roll looks at Lars, getting a slightly awkward feeling as she realizes that parts of Emily's time spent with him still exists within her consciousness, but then quickly gets distracted with imagagining how he would look in the blue MegaMan armor. Almost impulsively, she says quietly to herself, "He would look good in Mega's armor."
+
+Adeline then speaks out, at full volume, "No. If anyone, Jeremy should get Mega's armor. He is also the one of you most likely to be able to make effective use of a buster cannon."
+
+Roll then asks, "If I am, like the others, a copy, where is my original?", "I have no idea. Last time I saw her was around 9 years after your copy was made, at which point I was taken offline by Mega. But, that was 40 years ago. Neither your original nor Rock have been seen for decades, both of you having seemingly disappeared prior to Dr. Light's passing, presumably having been taken offline, though no physical evidence of them has been encountered."
+
+Adeline then pulls up the images of Light's lab from before, though in the simulation expanded into the size of a theater display. And then the simulation turns from a grassy field to a 3D recreation of Light's lab at the time of the event. The sky is overcast, and everything is highly desaturated and gray. Many structures have parts covered in fuzzy distortion, as any details which were not in view of the cameras could not be reconstructed, nor could much of anything from inside the lab.
+
+Roll feels sad seeing the ruins of a place that was for her, her home, until seemingly just a short time earlier.
+
+They can see a capsule being moved on a mechanical cart, and inside they can see the redesigned blue robot. They look into the capsule, and Roll says with a sense of sadness in her voice, "Oh, Mega, what has been done to you?"
+
+The cart was being followed by a tall thin man in a long jacket, frozen in place, his face blurred out as it was not able to captured effectively from the cameras.
+
+They are able to recreace the scene in motion from the data captured from the cameras, where the man can be seen loading the capsule into the back of a large truck, followed by a bunch of Light's equipment.
+
+Adeline then says, "Neither in this imagery, nor in the actual location, has any evidence of the original Roll's frame been located."
+
+Roll asks, "Can you tell us anything about the man who took him away?", "From what I have been able to piece together, his name is Dr. Cain, and he seems to have taken an interest in raiding both Light's and Wily's old facilities. It is possible he might come here as well, but I am in the process of preparing for this eventuality."
+
