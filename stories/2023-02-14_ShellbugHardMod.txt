@@ -867,9 +867,9 @@ He then looks around at some of Lyde's old documentation, and notes that there i
 
 Luckily, Magnus' core AI models and OS image were located on an SSD, so were not lost when the backup battery died. Other than holding config files, the NVRAM device also held the swapfile and temporary directories and similar, along with space for large temporary working files, but for the most part, little of particular importance was held on the NVRAM device. While the price per gigabyte was higher for the NVRAM than for the SSD, it had the advantage of an unlimited number of write-cycles, but the drawback that it needed a backup battery to maintain its contents for extended period and after several decades without power its original contents have become unreadable.
 
-Kane asks again, "Can you identify yourself.", "I am Magnus, serial number 000001; Model number 0000. Lyde Technologies, 2043-2058, All Rights Reserved.", "Main processor?", "MegaVX3-1295L 4.2GHz Base, 4.95GHz Turbo, Supports RV64 with BETA-V3. There are 256 cores, 32K+32K per-core L1 cache, 64MB total L2 cache, 512MB shared L3 cache. Working, 128GB DRAM, 512GB NVRAM, 8TB SSD.", "All good there. What is your Dhrystone performance?"
+Kane asks again, "Can you identify yourself.", "I am Magnus, serial number 000001; Model number 0000. Lyde Technologies, 2043-2058, All Rights Reserved.", "Main processor?", "MegaVX3-1295L 3.8GHz Base, 4.9GHz Turbo, Supports RV64 with BETA-V3. There are 256 cores, 32K+32K per-core L1 cache, 64MB total L2 cache, 512MB shared L3 cache. Working, 128GB DRAM, 512GB NVRAM, 8TB SSD.", "All good there. What is your Dhrystone performance?"
 
-Magnus then stalls up and becomes temporarily unresponsive, before responding, "Per core: 15.7 million, 8910 DMIPS. All cores, 4.02 billion, 2.281 million total DMIPS.", "OK, now what about LINPACK?", Magnus stalls again, before responding, "9.73 TFLOP; Peak floating-point performance measured as 7.7 FLOP per cycle per core.", "What about GPU?", "No GPU detected."
+Magnus then stalls up and becomes temporarily unresponsive, before responding, "Per core: 15.0 million, 8537 DMIPS. All cores, 2.98 billion, 1.695 million total DMIPS.", "OK, now what about LINPACK?", Magnus stalls again, before responding, "7.53 TFLOP; Peak floating-point performance measured as 7.7 FLOP per cycle per core.", "What about GPU?", "No GPU detected."
 
 Kane already knew most of this, but felt like asking Magnus mostly to see if he was able to correctly report his own hardware stats. Magnus's main processor, while not the fastest or newest available at the time he was built, it was low-power enough to be able to use an air cooler.
 
@@ -879,7 +879,7 @@ So, it became a tradeoff between whether for a given transistor budget it was be
 
 
 The processors can natively run the RV64 ISA:
-* 32 registers, each 64-bit
+* 32 registers (32 GPR + 32 FPR), each 64-bit
 * RISC style, programs expressed as running one instruction at a time.
 * Instructions are 16 or 32 bit.
 * Etc.
